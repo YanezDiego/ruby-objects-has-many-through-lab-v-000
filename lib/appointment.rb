@@ -6,6 +6,7 @@ class Appointment
     def initialize(date)
       @date = date
       donctor.add_appointment(self)
+    end
 
 
 
