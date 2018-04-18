@@ -7,6 +7,7 @@ class Patient
       @name = name
     end
 
+    def add_appointment
 
 
 
