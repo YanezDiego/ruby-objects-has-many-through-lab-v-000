@@ -17,4 +17,9 @@ class Artist
       @songs
     end
 
+    def genres
+      @songs.each do |song|
+        song.genres
+      end
+
 end
