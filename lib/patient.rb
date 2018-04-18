@@ -10,6 +10,11 @@ class Patient
 
     def appointments
       @appointments
+    end
+
+    def add_appointment
+
+    end
 
 
 
