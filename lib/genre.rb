@@ -16,6 +16,9 @@ class Genre
       @songs << song
     end
 
+    def artists
+
+    end
 
 
 end
